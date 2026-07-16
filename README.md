@@ -1,6 +1,6 @@
 # Ansh Sharma Portfolio
 
-Static React and Vite portfolio. No backend is required.
+Static React and Vite portfolio. 
 
 ## Run locally
 
@@ -8,10 +8,3 @@ Static React and Vite portfolio. No backend is required.
 npm install
 npm run dev
 ```
-
-## Deploy
-
-Import this folder into Vercel or Netlify. Use these build settings:
-
-- Build command: `npm run build`
-- Publish directory: `dist`
