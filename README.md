@@ -1,6 +1,6 @@
 # Ansh Sharma Portfolio
 
-Static React and Vite portfolio. 
+
 
 ## Run locally
 
@@ -8,3 +8,5 @@ Static React and Vite portfolio.
 npm install
 npm run dev
 ```
+
+visit :- https://anshportfolio-omega.vercel.app/
